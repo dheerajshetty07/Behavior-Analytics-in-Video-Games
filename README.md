@@ -1,4 +1,4 @@
-## The Role Big Data in Real-Time Player Behavior Analytics in Video Games
+# The Role Big Data in Real-Time Player Behavior Analytics in Video Games
 
 ## Project Overview
 
